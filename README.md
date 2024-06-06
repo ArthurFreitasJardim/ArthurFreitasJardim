@@ -16,7 +16,7 @@
 ```javascript
 const arthur = {
   name: "Arthur Freitas Jardim",
-  code: [Javascript, HTML, CSS, Java, Swift, SQL ],
+  code: [Javascript, HTML5, CSS3, Java, Swift, MySql ],
   objective: "Seeking first employment",
   education:{
       institution: "Colégio COTEMIG",

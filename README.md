@@ -17,21 +17,8 @@
 ```javascript
 const curriculo = {
   name: "Arthur Freitas Jardim",
-  code: [Javascript, HTML, CSS, Java, Swift, SQL ]
+  code: [Javascript, HTML, CSS, Java, Swift, SQL ],
   objective: "Seeking first employment",
-  contact: {
-    phone: "+55 31 982169130",
-    email: "arthurjardimfreitas@gmail.com"
-  },
-  experience: [
-    {
-      company: "COTEMIG (CODECLUB)",
-      location: "Belo Horizonte",
-      role: "Monitor",
-      duration: "4 months in 2022",
-      description: "Monitored and taught logical and basic programming using Scratch and Python to children."
-    }
-  ],
   education: [
     {
       institution: "Neusa Rocha",

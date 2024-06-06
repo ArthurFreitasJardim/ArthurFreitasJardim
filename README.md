@@ -1,8 +1,7 @@
-## Hi there 👋
-## I'm Arthur Freitas
+## Hi there 👋, I'm Arthur Freitas
 
->-🎓 Software Engineering Student (PUC-MINAS, 3º Semester)
->-📍  Brazil, Belo Horizonte, MG
+>- 🎓 Software Engineering Student (PUC-MINAS, 3º Semester)
+>- 📍  Brazil, Belo Horizonte, MG
 
 ```javascript
 const arthur = {

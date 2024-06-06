@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 
 
 ```javascript
@@ -34,6 +34,6 @@ const arthur = {
       description: "Currently in the third period of the Software Engineering course."
     }
       
-console.log(arthurFreitasCurriculum);
+console.log(arthur);
 }
 ```

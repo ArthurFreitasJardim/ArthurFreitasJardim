@@ -15,18 +15,11 @@
 
 
 ```javascript
-const curriculo = {
+const arthur = {
   name: "Arthur Freitas Jardim",
   code: [Javascript, HTML, CSS, Java, Swift, SQL ],
   objective: "Seeking first employment",
-  education: [
-    {
-      institution: "Neusa Rocha",
-      location: "Belo Horizonte",
-      level: "Elementary and Middle School",
-      duration: "January 2014 - December 2019"
-    },
-    {
+  education:{
       institution: "Colégio COTEMIG",
       location: "Belo Horizonte",
       level: "High School (Technical)",
@@ -40,33 +33,7 @@ const curriculo = {
       status: "Currently Enrolled",
       description: "Currently in the third period of the Software Engineering course."
     }
-  ],
-  projects: [
-    {
-      name: "Cotemig Startup",
-      description: "During technical high school at COTEMIG, I participated in this group project, which involved creating software to be presented to investors through a pitch. The best project was awarded."
-    },
-    {
-      name: "Cotemig CODECLUB",
-      description: "As mentioned above, I participated in this project aimed at teaching logic and basic programming to children."
-    }
-  ],
-  skills: [
-    "Basic knowledge of Kotlin and Swift",
-    "Basic knowledge of Microsoft Office",
-    "Basic knowledge of HTML5, CSS3, JavaScript, SQL, Java, PHP, and C#"
-  ],
-  awards: [
-    "Best Student Cultura Inglesa (2019)",
-    "Certificate of Participation in CODECLUB",
-    "Certificate of Participation in HackaTruck"
-  ],
-  languages: [
-    "Portuguese",
-    "Intermediate English"
-  ]
-};
-
+      
 console.log(arthurFreitasCurriculum);
 }
 ```

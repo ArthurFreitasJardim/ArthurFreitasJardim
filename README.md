@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Arthur Freitas
 
->- 🎓 Software Engineering Student (PUC-MINAS, 3º Semester)
+>- 🎓 Software Engineering Student (PUC-MINAS, 4º Semester)
 >- 📍  Brazil, Belo Horizonte, MG
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-01357B?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-freitas-jardim-075a95289/)

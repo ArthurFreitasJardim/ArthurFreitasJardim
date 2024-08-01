@@ -30,7 +30,7 @@ const arthur = {
       location: "Belo Horizonte",
       level: "Higher Education",
       status: "Currently Enrolled",
-      description: "Currently in the third period of the Software Engineering course."
+      description: "Currently in the fourth period of the Software Engineering course."
     }
       
 console.log(arthur);

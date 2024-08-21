@@ -36,3 +36,4 @@ const arthur = {
 console.log(arthur);
 }
 ```
+![image](https://github.com/user-attachments/assets/57e9bd94-7d3b-4f04-8ad7-4071d42ee5ed)

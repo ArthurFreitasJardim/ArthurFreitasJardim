@@ -1,8 +1,9 @@
 <div style="border: 2px solid #800080; padding: 20px; border-radius: 10px;">
+
 ### Hi there 👋, I'm Arthur Freitas
 
->- 🎓 Software Engineering Student (PUC-MINAS, 4º Semester)
->- 📍  Brazil, Belo Horizonte, MG
+- 🎓 Software Engineering Student (PUC-MINAS, 4º Semester)
+- 📍 Brazil, Belo Horizonte, MG
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-01357B?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-freitas-jardim-075a95289/)
 [![Gmail Badge](https://img.shields.io/badge/-arthurjardimfreitas@gmail.com-01357B?style=flat&logo=Gmail&logoColor=white&link=mailto:arthurjardimfreitas@gmail.com)](mailto:arthurjardimfreitas@gmail.com)
@@ -22,7 +23,8 @@ const arthur = {
   name: "Arthur Freitas Jardim",
   code: [Javascript, Html, Css, Java, Swift, MySql ],
   objective: "Seeking first employment",
-  education:{
+  education: [
+    {
       institution: "Colégio COTEMIG",
       location: "Belo Horizonte",
       level: "High School (Technical)",
@@ -36,10 +38,10 @@ const arthur = {
       status: "Currently Enrolled",
       description: "Currently in the fourth period of the Software Engineering course."
     }
-      
-console.log(arthur);
-}
-```
+  ]
+};
 
+console.log(arthur);
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 </div>
+```

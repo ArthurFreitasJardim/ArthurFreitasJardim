@@ -42,3 +42,5 @@ const arthur = {
 console.log(arthur);
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+![image](https://github.com/user-attachments/assets/9c074cc9-e39f-4613-a4b0-76dc79ff9c0e)

@@ -1,3 +1,4 @@
+<div style="border: 2px solid #800080; padding: 20px; border-radius: 10px;">
 ### Hi there 👋, I'm Arthur Freitas
 
 >- 🎓 Software Engineering Student (PUC-MINAS, 4º Semester)

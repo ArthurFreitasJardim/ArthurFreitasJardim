@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Technologies & Tools
+## 🚀 Technologies & Tools/👨‍💻 A Little About Me
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -16,40 +16,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
----
-
-## 🏫 Education
-
-- **Colégio COTEMIG** (Belo Horizonte)  
-  _Technical High School_  
-  **Period:** January 2020 - December 2022  
-  **Description:** Technical high school focused on programming, where I developed most of my foundational coding skills.
-
-- **Pontifícia Universidade Católica de Minas Gerais (PUC-Minas)**  
-  _Bachelor's Degree in Software Engineering_  
-  **Status:** Currently in the 4th semester  
-  **Location:** Belo Horizonte, MG
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=ArthurFreitasJardim&theme=radical&mode=weekly" alt="GitHub Streak Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitasJardim&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 💬 Get in Touch
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-01357B?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-freitas-jardim-075a95289/)
-[![Gmail Badge](https://img.shields.io/badge/-arthurjardimfreitas@gmail.com-01357B?style=flat&logo=Gmail&logoColor=white)](mailto:arthurjardimfreitas@gmail.com)
-
----
-
-## 👨‍💻 A Little About Me
 
 ```javascript
 const arthur = {
@@ -74,3 +40,32 @@ const arthur = {
   ]
 };
 console.log(arthur);
+
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=ArthurFreitasJardim&theme=radical&mode=weekly" alt="GitHub Streak Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitasJardim&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+</div>
+
+
+## 💬 Get in Touch
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-01357B?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-freitas-jardim-075a95289/)
+[![Gmail Badge](https://img.shields.io/badge/-arthurjardimfreitas@gmail.com-01357B?style=flat&logo=Gmail&logoColor=white)](mailto:arthurjardimfreitas@gmail.com)
+
+## 🏫 Education
+
+- **Colégio COTEMIG** (Belo Horizonte)  
+  _Technical High School_  
+  **Period:** January 2020 - December 2022  
+  **Description:** Technical high school focused on programming, where I developed most of my foundational coding skills.
+
+- **Pontifícia Universidade Católica de Minas Gerais (PUC-Minas)**  
+  _Bachelor's Degree in Software Engineering_  
+  **Status:** Currently in the 4th semester  
+  **Location:** Belo Horizonte, MG
+
+---

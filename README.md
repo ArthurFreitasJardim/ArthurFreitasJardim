@@ -16,6 +16,11 @@
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Wilkennn&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilkennn&show_icons=true&theme=radical&layout=compact" />
+ </div>
+
 ```javascript
 const arthur = {
   name: "Arthur Freitas Jardim",

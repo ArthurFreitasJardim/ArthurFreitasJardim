@@ -44,8 +44,8 @@ console.log(arthur);
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="56%" src="https://github-readme-streak-stats.herokuapp.com?user=ArthurFreitasJardim&theme=dark&mode=weekly" alt="GitHub Streak Stats" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitasJardim&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=ArthurFreitasJardim&theme=dark&mode=weekly" alt="GitHub Streak Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitasJardim&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏫 Education

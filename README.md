@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-01357B?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-freitas-jardim-075a95289/)
 [![Gmail Badge](https://img.shields.io/badge/-arthurjardimfreitas@gmail.com-01357B?style=flat&logo=Gmail&logoColor=white&link=mailto:arthurjardimfreitas@gmail.com)](mailto:arthurjardimfreitas@gmail.com)
 
-![Descrição do GIF](./Hand_coding.gif)
 
 ## Tecnologias e Ferramentas:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -45,8 +44,8 @@ console.log(arthur);
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=ArthurFreitasJardim&theme=dark&mode=weekly" alt="GitHub Streak Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitasJardim&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=ArthurFreitasJardim&theme=dark&mode=weekly" alt="GitHub Streak Stats" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitasJardim&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏫 Education

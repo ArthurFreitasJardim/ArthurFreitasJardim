@@ -52,7 +52,7 @@ After high school, I enrolled at <a href="https://www.pucminas.br/destaques/Pagi
 ## 🚀 Hard Skills
 
 ### **Languages:**
-- ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=yellow)&nbsp; 
+  ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=yellow)&nbsp; 
   ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=yellow)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
   ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=yellow)&nbsp;
@@ -60,15 +60,15 @@ After high school, I enrolled at <a href="https://www.pucminas.br/destaques/Pagi
   ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=yellow)&nbsp;
 
 ### **Frameworks:**
-- ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=yellow)&nbsp;
+  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=yellow)&nbsp;
   ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=yellow)&nbsp;
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=spring&logoColor=yellow)&nbsp;
 
 ### **Databases:**
-- ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
 
 ### **Tools:**
-- ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=yellow)&nbsp;
+  ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=yellow)&nbsp;
   ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=yellow)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=yellow)&nbsp;
 

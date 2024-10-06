@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Arthur Freitas Jardim
+# Hi👋, I'm Arthur
 
 🎓 **Software Engineering Student**  
 Currently studying at **PUC-Minas (4th Semester)**

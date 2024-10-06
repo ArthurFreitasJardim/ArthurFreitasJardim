@@ -40,7 +40,7 @@ After graduating from high school, I enrolled at <a href="https://www.pucminas.b
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/dev.gif" width="340px" height="220px"/>
+<img alt="GIF" src="https://github.com/ArthurFreitasJardim/ArthurFreitasJardim/blob/main/Hand_coding.gif" width="340px" height="270px"/>
 </div>
 </td>
 </tr>

@@ -32,8 +32,7 @@ After high school, I enrolled at <a href="https://www.pucminas.br/destaques/Pagi
 <p> 
 - :mortar_board: I am a <code>student</code> at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> pursuing a degree in Software Engineering.<br />
 - :briefcase: Currently interning as an IT intern and developer at <a href="https://www.linkedin.com/company/leaderrh-gest-o-estrat-gica-de-recursos-humanos/posts/?feedView=all" target="_blank">Leader RH</a>.<br />
-- :trophy: I was the second-best student in the technical course at <a href="https://www.cotemig.com.br/?pht=53101598905687976&keyword=cotemig&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiPtsnaWmqXoGbG5EjlQFF5Q7rVjYAqvaJbRO8HwqTs95GlMSf2KQ0xoCSQUQAvD_BwE" target="_blank">COTEMIG</a>.<br />
-- ⚽: My hobbies include watching <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro</a> and playing video games.<br />
+- ⚽ My hobbies include watching <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro</a> and playing video games.<br />
 - :page_facing_up: Check out my <a href="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/ThiagoCV.pdf" target="_blank">Resume</a> for more information.
 </p>
 </div>

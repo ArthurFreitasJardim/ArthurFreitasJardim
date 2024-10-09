@@ -86,7 +86,7 @@ After high school, I enrolled at <a href="https://www.pucminas.br/destaques/Pagi
   **Description:** A technical high school focused on programming, where I developed most of my foundational coding skills.
 
 - **Pontifícia Universidade Católica de Minas Gerais (PUC-Minas)**  
-  Bachelor's Degree in Software Engineering_  
+  _Bachelor's Degree in Software Engineering_  
   **Status:** Currently in the 4th semester  
   **Location:** Belo Horizonte, MG
 

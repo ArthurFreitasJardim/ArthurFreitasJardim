@@ -33,7 +33,7 @@ After high school, I enrolled at <a href="https://www.pucminas.br/destaques/Pagi
 - :mortar_board: I am a <code>student</code> at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> pursuing a degree in Software Engineering.<br />
 - :briefcase: Currently interning as an IT intern and developer at <a href="https://www.linkedin.com/company/leaderrh-gest-o-estrat-gica-de-recursos-humanos/posts/?feedView=all" target="_blank">Leader RH</a>.<br />
 - ⚽ My hobbies include watching <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro</a> and playing video games.<br />
-- :page_facing_up: Check out my <a href="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/ThiagoCV.pdf" target="_blank">Resume</a> for more information.
+- :page_facing_up: Check out my <a href="https://github.com/ArthurFreitasJardim/ArthurFreitasJardim/blob/main/imgs/Currículo-ArthurFreitas.pdf" target="_blank">Resume</a> for more information.
 </p>
 </div>
 </td>

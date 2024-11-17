@@ -65,11 +65,14 @@ After high school, I enrolled at <a href="https://www.pucminas.br/destaques/Pagi
 
 ### **Databases:**
   ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
+  ![MongoDb](https://img.shields.io/badge/MongoDb-000000?style=for-the-badge&logo=mongodb&logoColor=yellow)&nbsp;
+  
 
 ### **Tools:**
   ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=yellow)&nbsp;
   ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=yellow)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=yellow)&nbsp;
+  ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=yellow)&nbsp;
 
 ## 📊 GitHub Stats
 

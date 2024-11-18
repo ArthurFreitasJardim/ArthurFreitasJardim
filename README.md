@@ -10,7 +10,7 @@
   <summary>📚 About Me</summary>
   
   <div align="justify">
-    Hello! I’m <code>Arthur</code>, a 19-year-old from Belo Horizonte. I discovered programming in 2020 through the technical program at 
+    - Hello! I’m <code>Arthur</code>, a 19-year-old from Belo Horizonte. I discovered programming in 2020 through the technical program at 
     <a href="https://www.cotemig.com.br/?pht=53101598905687976&keyword=cotemig&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiPtsnaWmqXoGbG5EjlQFF5Q7rVjYAqvaJbRO8HwqTs95GlMSf2KQ0xoCSQUQAvD_BwE" target="_blank">COTEMIG</a>. 
     There, I learned PHP, JavaScript, Kotlin, Swift, SQL, HTML, CSS, and frameworks like Node.js and React, completing several projects that solidified my skills.
     <br/><br/>

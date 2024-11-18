@@ -57,6 +57,7 @@ After high school, I enrolled at <a href="https://www.pucminas.br/destaques/Pagi
   ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=yellow)&nbsp;
   ![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=yellow)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=yellow)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=yellow)&nbsp;
 
 ### **Frameworks:**
   ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=yellow)&nbsp;

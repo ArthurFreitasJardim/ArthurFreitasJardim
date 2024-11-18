@@ -1,10 +1,6 @@
-# Hi👋, I'm Arthur
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5c207&height=120&section=header"/>
 
-🎓 **Software Engineering Student**  
-Currently studying at **PUC-Minas (4th Semester)**
-
-📍 **Location**  
-Belo Horizonte, MG, Brazil
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur;I'm+20+years+old;I'm+from+Brazil;I'm+Graduating+In+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=yellow)](https://www.linkedin.com/in/arthur-freitas-jardim-075a95289/)
 [![Gmail Badge](https://img.shields.io/badge/-arthurjardimfreitas@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=yellow)](mailto:arthurjardimfreitas@gmail.com)
@@ -30,7 +26,7 @@ After high school, I enrolled at <a href="https://www.pucminas.br/destaques/Pagi
 <td>
 <div align="justify">
 <p> 
-- :mortar_board: I am a <code>student</code> at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> pursuing a degree in Software Engineering.<br />
+- :mortar_board: I am a <code>student</code> at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> graduating in Software Engineering actually in the fourth semester. <br />
 - :briefcase: Currently interning as an IT intern and developer at <a href="https://www.linkedin.com/company/leaderrh-gest-o-estrat-gica-de-recursos-humanos/posts/?feedView=all" target="_blank">Leader RH</a>.<br />
 - ⚽ My hobbies include watching <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro</a> and playing video games.<br />
 - :page_facing_up: Check out my <a href="https://github.com/ArthurFreitasJardim/ArthurFreitasJardim/blob/main/imgs/Currículo-ArthurFreitas.pdf" target="_blank">Resume</a> for more information.
@@ -51,29 +47,29 @@ After high school, I enrolled at <a href="https://www.pucminas.br/destaques/Pagi
 ## 🚀 Hard Skills
 
 ### **Languages:**
-  ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=yellow)&nbsp; 
-  ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=yellow)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=yellow)&nbsp;
-  ![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=yellow)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=yellow)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=yellow)&nbsp;
+  ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=f5c207)&nbsp; 
+  ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=f5c207)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f5c207)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=f5c207)&nbsp;
+  ![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=f5c207)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=f5c207)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=f5c207)&nbsp;
 
 ### **Frameworks:**
-  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=yellow)&nbsp;
-  ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=yellow)&nbsp;
-  ![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=spring&logoColor=yellow)&nbsp;
+  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=f5c207)&nbsp;
+  ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=f5c207)&nbsp;
+  ![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=spring&logoColor=f5c207)&nbsp;
 
 ### **Databases:**
-  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
-  ![MongoDb](https://img.shields.io/badge/MongoDb-000000?style=for-the-badge&logo=mongodb&logoColor=yellow)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=f5c207)&nbsp;
+  ![MongoDb](https://img.shields.io/badge/MongoDb-000000?style=for-the-badge&logo=mongodb&logoColor=f5c207)&nbsp;
   
 
 ### **Tools:**
-  ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=yellow)&nbsp;
-  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=yellow)&nbsp;
-  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=yellow)&nbsp;
-  ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=yellow)&nbsp;
+  ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=f5c207)&nbsp;
+  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=f5c207)&nbsp;
+  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=f5c207)&nbsp;
+  ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=f5c207)&nbsp;
 
 ## 📊 GitHub Stats
 
@@ -96,8 +92,6 @@ After high school, I enrolled at <a href="https://www.pucminas.br/destaques/Pagi
 
 ---
 
-<h3 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;"
-  />
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+✌️:%29)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5c207&height=120&section=footer"/>

@@ -9,22 +9,19 @@
 <details>
   <summary>📚 About Me</summary>
   
-  <div align="justify">
-    - Hello! I’m <code>Arthur</code>, a 19-year-old from Belo Horizonte. I discovered programming in 2020 through the technical program at 
-    <a href="https://www.cotemig.com.br/?pht=53101598905687976&keyword=cotemig&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiPtsnaWmqXoGbG5EjlQFF5Q7rVjYAqvaJbRO8HwqTs95GlMSf2KQ0xoCSQUQAvD_BwE" target="_blank">COTEMIG</a>. 
-    There, I learned PHP, JavaScript, Kotlin, Swift, SQL, HTML, CSS, and frameworks like Node.js and React, completing several projects that solidified my skills.
-    <br/><br/>
-    In October 2024, I began my first internship at 
-    <a href="https://www.linkedin.com/company/leaderrh-gest-o-estrat-gica-de-recursos-humanos/posts/?feedView=all" target="_blank">Leader RH</a>, 
-    where I’m developing my software and integrating files with the cloud.
-    <br/><br/>
-    After high school, I enrolled at 
-    <a href="https://www.pucminas.br/destaques/Paginas/default.aspx?utm_source=google&utm_medium=cpa&utm_campaign=aon-institucional&utm_content=PC00002&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiJ66s56joN9L6Kuvbl90gkXUs0P3SBC0DVm4dBxJ1eJjZ6Ne838X5BoClk4QAvD_BwE" target="_blank">PUC Minas</a>, 
-    pursuing a Bachelor's in Software Engineering. Here, I learned C and Java, which became foundational. I also enhanced my JavaScript skills and studied agile methodologies, 
-    architectural patterns like MVC and DAO, complexity analysis, operating systems, and Git. At PUC, I worked on various projects, including an e-commerce platform for a 
-    pharmacy in collaboration with a real client.
-  </div>
+  - **Arthur Freitas Jardim**  
+    _Software Engineering Student_  
+    **Age:** 20 years  
+    **Location:** Belo Horizonte, Brazil  
+    **Description:** Passionate about programming, I began my journey in 2020 with the technical program at <a href="https://www.cotemig.com.br/?pht=53101598905687976&keyword=cotemig&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiPtsnaWmqXoGbG5EjlQFF5Q7rVjYAqvaJbRO8HwqTs95GlMSf2KQ0xoCSQUQAvD_BwE" target="_blank">COTEMIG</a>, where I learned several programming languages and frameworks. Currently, I’m a Software Engineering student at <a href="https://www.pucminas.br/destaques/Paginas/default.aspx?utm_source=google&utm_medium=cpa&utm_campaign=aon-institucional&utm_content=PC00002&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiJ66s56joN9L6Kuvbl90gkXUs0P3SBC0DVm4dBxJ1eJjZ6Ne838X5BoClk4QAvD_BwE" target="_blank">PUC Minas</a>, continuing to expand my knowledge in the field.
+  
+  - **Leader RH**  
+    _Software Development Intern_  
+    **Status:** Currently working  
+    **Location:** Belo Horizonte, MG  
+    **Description:** In my internship at Leader RH, I’m developing software solutions and integrating files with the cloud, applying my programming and problem-solving skills in a real-world business environment.
 </details>
+
 
 <details>
   <summary>👤 Personal Interests</summary>
@@ -97,9 +94,9 @@
 <details>
   <summary>📊 GitHub Stats</summary>
   
-  <div align="center">
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=ArthurFreitasJardim&theme=dark&mode=weekly" alt="GitHub Streak Stats" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitasJardim&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+  <div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArthurFreitasJardim&show_icons=true&count_private=true&hide_border=true&title_color=f5c207&icon_color=f5c207&text_color=f5c207&bg_color=0d1117" alt="Arthur github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitasJardim&layout=compact&hide_border=true&title_color=f5c207&text_color=f5c207&bg_color=0d1117" />
   </div>
 </details>
 

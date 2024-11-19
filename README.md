@@ -59,10 +59,11 @@
   <summary>🚀 Hard Skills</summary>
 
  <div align="center">
+  <img src="https://github.com/user-attachments/assets/1c7b5ba3-474c-4ade-9598-0bf1ff85299d" width="450" />
+  <!-- <img src="https://user-images.githubusercontent.com/31341013/214849505-86f91170-5fd9-461d-977e-61283fc1a10a.png" /> -->
+</div>
 
- ![image](https://user-images.githubusercontent.com/31341013/214849505-86f91170-5fd9-461d-977e-61283fc1a10a.png)
 
- </div>
 
   
   ### **Languages:**

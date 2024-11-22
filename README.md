@@ -62,9 +62,6 @@
   <img src="https://github.com/user-attachments/assets/1c7b5ba3-474c-4ade-9598-0bf1ff85299d" width="450" />
   <!-- <img src="https://user-images.githubusercontent.com/31341013/214849505-86f91170-5fd9-461d-977e-61283fc1a10a.png" /> -->
 </div>
-
-
-
   
   ### **Languages:**
   ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=f5c207)&nbsp; 
@@ -89,6 +86,7 @@
   ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=f5c207)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=f5c207)&nbsp;
   ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=f5c207)&nbsp;
+  ![Android Studio](https://img.shields.io/badge/androidstudio-000000?style=for-the-badge&logo=androidstudio&logoColor=f5c207)&nbsp;
 
 </details>
 

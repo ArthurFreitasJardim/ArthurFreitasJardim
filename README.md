@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5c207&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur;I'm+20+years+old;I'm+from+Brazil;I'm+Graduating+In+Software+Engineer;Be+Welcome!+:%29&duration=4000&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur;I'm+20+years+old;I'm+from+Brazil;I'm+Graduating+In+Software+Engineer;Be+Welcome!+:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=yellow)](https://www.linkedin.com/in/arthur-freitas-jardim-075a95289/)
 [![Gmail Badge](https://img.shields.io/badge/-arthurjardimfreitas@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=yellow)](mailto:arthurjardimfreitas@gmail.com)
@@ -116,7 +116,7 @@
 </details>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=Arthur+Freitas+Jardim;23/11/2004;Belo+Horizonte-MG+📍;PUC-MG;Thanks+for+visiting+✌️:%29&duration=4000&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=Arthur+Freitas+Jardim;23/11/2004;Belo+Horizonte-MG+📍;PUC-MG;Thanks+for+visiting+✌️:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5c207&height=120&section=footer"/>
 

@@ -6,6 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-arthurjardimfreitas@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=yellow)](mailto:arthurjardimfreitas@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-afreitasj-000000?style=for-the-badge&logo=Instagram&logoColor=yellow)](https://www.instagram.com/afreitasj/)
 
+---
+
 <details>
   <summary>📚 About Me</summary>
   
@@ -38,7 +40,7 @@
             - 🎓 I am a <code>student</code> at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> graduating in Software Engineering, currently in the fourth semester. <br/>
             - 💼 Currently interning as an IT intern and developer at <a href="https://www.linkedin.com/company/leaderrh-gest-o-estrat-gica-de-recursos-humanos/posts/?feedView=all" target="_blank">Leader RH</a>. <br/>
             - ⚽ My hobbies include watching <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro</a> and playing video games. <br/>
-            - 📄 Check out my <a href="https://github.com/ArthurFreitasJardim/ArthurFreitasJardim/blob/main/imgs/Currículo-ArthurFreitas.pdf" target="_blank">Resume</a> for more information.
+            - 📄 Check out my <a href="https://github.com/ArthurFreitasJardim/ArthurFreitasJardim/blob/main/imgs/Currículo_ArthurFreitas.pdf" target="_blank">Resume</a> for more information.
             </p>
           </div>
         </td>

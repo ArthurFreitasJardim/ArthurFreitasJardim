@@ -16,14 +16,14 @@
     **Age:** 20 years  
     **Location:** Belo Horizonte, Brazil  
     **Description:** Passionate about programming, I began my journey in 2020 with the technical program at <a href="https://www.cotemig.com.br/?pht=53101598905687976&keyword=cotemig&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiPtsnaWmqXoGbG5EjlQFF5Q7rVjYAqvaJbRO8HwqTs95GlMSf2KQ0xoCSQUQAvD_BwE" target="_blank">COTEMIG</a>, where I learned several programming languages and frameworks. Currently, I’m a Software Engineering student at <a href="https://www.pucminas.br/destaques/Paginas/default.aspx?utm_source=google&utm_medium=cpa&utm_campaign=aon-institucional&utm_content=PC00002&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiJ66s56joN9L6Kuvbl90gkXUs0P3SBC0DVm4dBxJ1eJjZ6Ne838X5BoClk4QAvD_BwE" target="_blank">PUC Minas</a>, continuing to expand my knowledge in the field.
-  
-  - **Leader RH**  
-    _Software Development Intern_  
-    **Status:** Currently working  
-    **Location:** Belo Horizonte, MG  
-    **Description:** In my internship at Leader RH, I’m developing software solutions and integrating files with the cloud, applying my programming and problem-solving skills in a real-world business environment.
 </details>
 
+<details>
+  <summary>📄 Resume</summary>
+  <div align="center" > 
+    <img src="https://github.com/user-attachments/assets/6c874d90-d8f5-4b22-851b-77294645e72d"
+  </div>
+</details>
 
 <details>
   <summary>👤 Personal Interests</summary>
@@ -38,7 +38,6 @@
           <div align="justify">
             <p> 
             - 🎓 I am a <code>student</code> at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> graduating in Software Engineering, currently in the fourth semester. <br/>
-            - 💼 Currently interning as an IT intern and developer at <a href="https://www.linkedin.com/company/leaderrh-gest-o-estrat-gica-de-recursos-humanos/posts/?feedView=all" target="_blank">Leader RH</a>. <br/>
             - ⚽ My hobbies include watching <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro</a> and playing video games. <br/>
             - 📄 Check out my <a href="https://github.com/ArthurFreitasJardim/ArthurFreitasJardim/blob/main/imgs/Currículo_ArthurFreitas.pdf" target="_blank">Resume</a> for more information.
             </p>
@@ -59,11 +58,6 @@
 
 <details>
   <summary>🚀 Hard Skills</summary>
-
- <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c7b5ba3-474c-4ade-9598-0bf1ff85299d" width="450" />
-  <!-- <img src="https://user-images.githubusercontent.com/31341013/214849505-86f91170-5fd9-461d-977e-61283fc1a10a.png" /> -->
-</div>
   
   ### **Languages:**
   ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=f5c207)&nbsp; 
@@ -114,7 +108,6 @@
     **Status:** Currently in the 4th semester  
     **Location:** Belo Horizonte, MG
 </details>
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=Arthur+Freitas+Jardim;23/11/2004;Belo+Horizonte-MG+📍;PUC-MG;Thanks+for+visiting+✌️:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
 

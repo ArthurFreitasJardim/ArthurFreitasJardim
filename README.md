@@ -105,7 +105,7 @@
 
   - **Pontifícia Universidade Católica de Minas Gerais (PUC-Minas)**  
     _Bachelor's Degree in Software Engineering_  
-    **Status:** Currently in the 4th semester  
+    **Status:** Currently in the 5th semester  
     **Location:** Belo Horizonte, MG
 </details>
 

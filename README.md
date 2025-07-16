@@ -21,7 +21,7 @@
 <details>
   <summary>📄 Resume</summary>
   <div align="center" > 
-    <img src="https://github.com/user-attachments/assets/6c874d90-d8f5-4b22-851b-77294645e72d"
+    <img src="https://github.com/ArthurFreitasJardim/ArthurFreitasJardim/blob/main/imgs/CurrículoArthurFreitas.pdf"
   </div>
 </details>
 
